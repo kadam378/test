@@ -9,6 +9,6 @@
 	public static void main(String[] args) {
 		Hubb h = new Hubb();
 		h.meth(3);
-		h.meth(3,4);
+		h.meth(3,4);;
 	}
 }
